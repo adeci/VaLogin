@@ -1,5 +1,5 @@
 # VaLogin - Account Manager for Valorant v1.0
-## Ported from LoLogin
+### Ported from LoLogin
 
 ![Example Image](/Example.JPG)
 
